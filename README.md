@@ -1,7 +1,9 @@
  <h1>Hey 👋, I'm Or!</h1>
- <p>I am a frontend / fullstack developer, currently working as a course instructor at Coding Academy's bootcamp.</p>
  
+ <p>I am a frontend / fullstack developer, currently working as a course instructor at Coding Academy's bootcamp.</p>
  <p>Welcome to my profile :partying_face:</p>
+ 
+ </br>
  
  <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -32,7 +34,9 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" /> -->
 </p>
  
- <h2>💬 Social life is important right?</h2>
+ </br>
+ 
+ <h2>💬 Social life is important right? :cowboy_hat_face:</h2>
  
  [![Linkedin Badge](https://img.shields.io/badge/-or21321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/or21321/)](https://www.linkedin.com/in/or21321/)
 [![Gmail Badge](https://img.shields.io/badge/-ormoglob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ormoglob@gmail.com)](mailto:ormoglob@gmail.com)
