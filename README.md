@@ -1,6 +1,6 @@
  <h1>Hey 👋, I'm Or!</h1>
  
- <p>I am a 25 years old frontend / fullstack developer living in Tel Aviv. Currently working as a course instructor at Coding Academy's bootcamp.</p>
+ <p>I am a 25 years old frontend / fullstack developer living in Tel Aviv. Currently working as a Frontend developer at kramer.</p>
  <p>Welcome to my profile :partying_face:</p>
  
  </br>
